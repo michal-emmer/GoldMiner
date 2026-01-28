@@ -7,7 +7,7 @@ Jednoduchá hra Gold Miner, kde hráč ťaží zlato a predmety pomocou háku v 
 
 ## Ako spustiť hru
 1. Skopírujte alebo stiahnite celý projekt do počítača.  
-2. Otvorte súbor `Goldminer.html` vo vašom webovom prehliadači (Chrome, Firefox, Edge…).  
+2. Otvorte súbor `GoldMiner.html` vo vašom webovom prehliadači (Chrome, Firefox, Edge…).  
 3. Hra sa automaticky spustí a môžete začať hrať.
 
 ## Ovládanie
